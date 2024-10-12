@@ -8,7 +8,7 @@ header:
 
 <img src="https://github.com/kvrona/K-Vrona-Profile/blob/master/assets/images/Screenshot 2024-10-06 at 6.25.53 PM.png?raw=true" width="50%" hspace="20" align="right">
 
-I am Kritin Vrona, a Master of Economics and current Ph.D. candidate at Northern Illinois University, specializing in Econometrics, Health Economics, and Labor Economics. 
+I'm Kristin, a Master of Economics and current Ph.D. candidate at Northern Illinois University, specializing in Econometrics, Health Economics, and Labor Economics. 
 
 My doctoral research explores the causal impact of mental health on labor market productivity and examines how workplace factors, benefits, and attitudes toward healthcare shape this relationship.
 
