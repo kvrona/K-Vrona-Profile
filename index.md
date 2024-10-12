@@ -6,18 +6,33 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/ECON-691/Jekyll-for-Job-Market/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/kvrona/K-Vrona-Profile/blob/master/assets/images/Screenshot 2024-10-06 at 6.25.53 PM.png?raw=true" width="50%" hspace="20" align="right">
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
+Welcome to my page.
 
-I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
+I am a Master of Economics and current Ph.D. candidate at Northern Illinois University, specializing in Econometrics, Health Economics, and Labor Economics. *I am a Master of Economics and current Ph.D. Candidate at Northern Illinois University with specializations in Labor Economics and Econometrics.*
+
+I am currently on the job market and available for interviews. 
+
+
+
 
 ### Background
+My doctoral research focuses on the causal impact of mental health on  labor market productivity outcomes and how workplace factors, benefits, and overall additudes about reciving healthcare influence this impact. 
 
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
+Born and raised in Illinois, I’m a proud NIU loyalist, having earned all my degrees from the university, first obtaining a B.S. in Economics with highest honors. My first post-B.S. job was a Business Analyst role at an international logistics company, where I took initiative and implemented innovations that exceeded expectations within my first year.
 
-Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
+Data Analysis & Econometrics: Expertise in re-sampling techniques, matching methods, simulation methods, survival & hazard analysis, bias reduction methods, limited dependent variable models, panel & time-series methods.
 
-When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
+Technical Proficiency: Expert in R, SAS, and proficient in Microsoft Office with VBA (Excel automation).
+
+Communication & Management: Skilled in report generation, budget tracking, time management, and coordinating deliverables.
+
+Applied Economics: Experienced in logistics, public funds management, and leveraging applied theory to inform empirical practice.
+
+
+In my free time, I enjoy writing and recording music with my husband and spending time outdoors. 
+
+I consider myself a welfare economist above all and am eager to apply my expertise to organizations committed to improving social welfare and driving innovation.
