@@ -11,7 +11,6 @@ permalink: /teaching/
 - ECON 750: Public Sector Economics I (fall 2020)
 - ECON 660: Microeconomic Analysis I (fall 2018, spring 2020)
 
-
 # Undergraduate Level
 ### Northern Illinois University (Instructor)
 - ECON 261: Principles of Macroeconomics (spring 2021, summer 2021, summer 2022)  
