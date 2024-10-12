@@ -6,8 +6,6 @@ classes: wide
 permalink: /teaching/
 ---
 
-*These courses are fictional and were created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
-
 # Graduate Level 
 ### Northern Illinois University (Teaching Assistant)
 - ECON 750: Public Sector Economics I (fall 2020)
@@ -17,12 +15,10 @@ permalink: /teaching/
 # Undergraduate Level
 ### Northern Illinois University (Instructor)
 - ECON 261: Principles of Macroeconomics (spring 2021, summer 2021, summer 2022)  
-    - Foundational course covering basic principles of crowd engagement, mascot safety, and the history of collegiate mascots.
       
 ### Northern Illinois University (Teaching Assistant)
 - ECON 361: Intermediate Macroeconomics (spring 2022)
 - ECON 390, 390A: Econometric Analysis & Applications (fall 2021)  
-    - Hands-on (paws-on) workshop focusing on non-verbal communication methods for maximizing school spirit at sporting events.  
 - ECON 350: Government & Business (Spring 2019)
 
 ### Guest Lectures
