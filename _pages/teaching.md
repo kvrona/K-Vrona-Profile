@@ -8,16 +8,30 @@ permalink: /teaching/
 
 *These courses are fictional and were created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
-# Undergraduate Level
+# Graduate Level 
+### Northern Illinois University (Teaching Assistant)
+- ECON 750: Public Sector Economics I (fall 2020)
+- ECON 660: Microeconomic Analysis I (fall 2018, spring 2020)
 
-### Northern Illinois University (Official Mascot)
-- SPRT 101: Introduction to Mascot Sciences (fall 2023, spring 2024)  
-    - Foundational course covering basic principles of crowd engagement, mascot safety, and the history of collegiate mascots.  
-- CHEER 250: Advanced Tail-Wagging and Paw-Shaking Techniques (spring 2024)  
+
+# Undergraduate Level
+### Northern Illinois University (Instructor)
+- ECON 261: Principles of Macroeconomics (spring 2021, summer 2021, summer 2022)  
+    - Foundational course covering basic principles of crowd engagement, mascot safety, and the history of collegiate mascots.
+      
+### Northern Illinois University (Teaching Assistant)
+- ECON 361: Intermediate Macroeconomics (spring 2022)
+- ECON 390, 390A: Econometric Analysis & Applications (fall 2021)  
     - Hands-on (paws-on) workshop focusing on non-verbal communication methods for maximizing school spirit at sporting events.  
+- ECON 350: Government & Business (Spring 2019)
 
 ### Guest Lectures
- - MKTG 315: Sports Marketing and Branding (fall 2023)  
-    - Guest lecture on "The Mascot's Role in University Brand Identity"  
-- PSYC 220: Social Psychology (spring 2024)  
-    - Special seminar on "The Psychology of Human-Mascot Interactions in Large Crowds"   
+ - ECON 700: Labor Economics I (fall 2022)  
+    - Guest lecture on "Labor Productivity & Health"
+- ECON 798: Graduate Colloquium Seminar (spring 2021) 
+    - Special seminar on "Moderate to Severe Diagnosed Mental Disorders & Absenteeism" 
+- ECON 750: Public Sector Economics I (spring 2019)
+   - Presentation & discussion on applied theory of externalities in health economics 
+- ECON 798: Graduate Colloquium Seminar (spring 2018) 
+    - Special seminar on "Mental Health & Labor Supply" 
+
