@@ -8,11 +8,9 @@ header:
 
 <img src="https://github.com/kvrona/K-Vrona-Profile/blob/master/assets/images/Screenshot 2024-10-06 at 6.25.53 PM.png?raw=true" width="50%" hspace="20" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
-
 Welcome to my page.
 
-I am a Master of Economics and current Ph.D. candidate at Northern Illinois University, specializing in Econometrics, Health Economics, and Labor Economics. *I am a Master of Economics and current Ph.D. Candidate at Northern Illinois University with specializations in Labor Economics and Econometrics.*
+I am a Master of Economics and current Ph.D. candidate at Northern Illinois University, specializing in Econometrics, Health Economics, and Labor Economics. 
 
 I am currently on the job market and available for interviews. 
 
