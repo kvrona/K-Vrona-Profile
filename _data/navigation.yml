@@ -1,9 +1,9 @@
 # the masthead
 main:
   - title: "Home"
-    url: /
+    url: 
   - title: "Curriculum Vitae"
-    url: /assets/docs/Mission.pdf
+    url: /assets/docs/CV_VRONA_PUBLIC.pdf
   - title: "Research"
     url: /portfolio/
   - title: "Teaching"
