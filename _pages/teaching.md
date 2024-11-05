@@ -6,7 +6,7 @@ classes: wide
 permalink: /teaching/
 ---
 
-### Graduate
+## Graduate 
 
 
 #### ECON 660: Microeconomic Analysis I | Fall 2018, Spring 2020
@@ -17,7 +17,7 @@ permalink: /teaching/
 #### ECON 750: Public Sector Economics I | Spring 2019
 
 
-### Undergraduate
+## Undergraduate
 
 
 #### ECON 261: Principles of Macroeconomics | Spring 2021, Summer 2021, Summer 2022
@@ -32,7 +32,7 @@ permalink: /teaching/
 
 
 
-### Presentations & Talks
+## Presentations & Talks
 
 #### ECON 700: Labor Economics I | Fall 2022
 - Guest lecturer,  "Labor Productivity & Health"
