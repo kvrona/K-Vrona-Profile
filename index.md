@@ -4,7 +4,9 @@ header:
   image: /assets/images/niubanner.png
 ---
 header:
-  image: /assets/images/headshot1.jpg
+  image: Screenshot 2024-10-06 at 6.25.53 PM.png
+
+  
 # Welcome​
 
 
