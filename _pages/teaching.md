@@ -8,6 +8,7 @@ permalink: /teaching/
 
 # Graduate
 
+## Northern Illinois University | Department of Economics
 ### ECON 660: Microeconomic Analysis I | Fall 2018, Spring 2020
 - Conducted weekly recitation sessions to reinforce course concepts for graduate students.
 - Adapted to the COVID-19 shift to virtual learning by recording video tutorials where I solved problems in real-time. Eventually invested in a tablet to demonstrate problem-solving more effectively, moving away from the whiteboard to enhance the online learning experience.
@@ -16,6 +17,8 @@ permalink: /teaching/
 
 
 # Undergraduate
+
+## Northern Illinois University | Department of Economics
 
 ### ECON 261: Principles of Macroeconomics, undergraduate | Spring 2021, Summer 2021, Summer 2022
 - Sole instructor responsible for course delivery and curriculum management.
