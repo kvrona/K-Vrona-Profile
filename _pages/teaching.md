@@ -30,15 +30,13 @@ permalink: /teaching/
 
 
 
-
-
 # Talks & Presentations
 ### ECON 700: Labor Economics I (fall 2022)  
-    - Guest lecturer,  "Labor Productivity & Health"
+- Guest lecturer,  "Labor Productivity & Health"
 ### ECON 798: Graduate Colloquium Seminar (spring 2021) 
-    - Presented PH.D. research paper, "Moderate to Severe Diagnosed Mental Disorders & Absenteeism" 
+- Presented PH.D. research paper, "Moderate to Severe Diagnosed Mental Disorders & Absenteeism" 
 ### ECON 750: Public Sector Economics I (spring 2019)
-   - Discussion of modeling activity to derive efficient outcomes in a healthcare setting.  
+- Discussion of modeling activity to derive efficient outcomes in a healthcare setting.  
 ### ECON 798: Graduate Colloquium Seminar (spring 2018) 
-    - Presented Master's thesis, "Mental Health & Labor Supply" 
+ - Presented Master's thesis, "Mental Health & Labor Supply" 
 
