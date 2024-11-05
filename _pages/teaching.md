@@ -32,7 +32,7 @@ permalink: /teaching/
 
 
 
-### Talks & Presentations
+# Talks & Presentations
 ECON 700: Labor Economics I (fall 2022)  
     - Guest lecturer,  "Labor Productivity & Health"
 ECON 798: Graduate Colloquium Seminar (spring 2021) 
