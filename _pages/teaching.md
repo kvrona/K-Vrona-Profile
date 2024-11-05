@@ -30,14 +30,14 @@ permalink: /teaching/
 
 
 
-## Talks & Presentations
-# Northern Illinois University | Department of Economics
-### ECON 700: Labor Economics I | Fall 2022
+# Talks & Presentations
+### Northern Illinois University | Department of Economics
+#### ECON 700: Labor Economics I | Fall 2022
 - Guest lecturer,  "Labor Productivity & Health"
-### ECON 798: Department of Economics Research Colloquium Seminar | Spring 2021
+#### ECON 798: Department of Economics Research Colloquium Seminar | Spring 2021
 - Presented PH.D. research paper, "Moderate to Severe Diagnosed Mental Disorders & Absenteeism" 
-### ECON 750: Public Sector Economics I | Spring 2019
+#### ECON 750: Public Sector Economics I | Spring 2019
 - Discussion of modeling activity to derive efficient outcomes in a healthcare setting.  
-### ECON 798: Department of Economics Research Colloquium Seminar| Spring 2018
+#### ECON 798: Department of Economics Research Colloquium Seminar| Spring 2018
  - Presented Master's thesis, "Mental Health & Labor Supply" 
 
