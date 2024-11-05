@@ -1,5 +1,7 @@
 ---
-title: " "
+title: Kristin Vrona
+
+name: Profile for Kristin Vrona
 header:
 image: /assets/images/Screenshot 2024-10-06 at 6.25.53 PM.png
 ---
