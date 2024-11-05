@@ -1,4 +1,4 @@
-# Configs
+dshot# Configs
 
 title: "Kristin Vrona"
 name: "Profile for Kristin Vrona"
@@ -38,7 +38,7 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author: 
   name   : "Kristin Vrona"
-  avatar : "/assets/images/Headshot 2 Nov.jpg"
+  avatar : "/assets/images/headshot1.jpg"
   bio    : "My name is Kristin Vrona. I am a Ph.D. candidate and master's degree holder in Economics with specializations in health & labor economics and applied econometrics"
   location: "Sycamore, Illinois"
   github : 
