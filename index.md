@@ -6,6 +6,10 @@ header:
 image: /assets/images/Screenshot 2024-10-06 at 6.25.53 PM.png
 ---
 
+<img src=""https://github.com/kvrona/K-Vrona-Profile/blob/main/assets/images/headshot1.jpg?raw=true" width="50%" hspace="20" align="right">
+
+
+
   
 # Welcome​
 
