@@ -6,31 +6,19 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/kvrona/K-Vrona-Profile/blob/master/assets/images/Screenshot 2024-10-06 at 6.25.53 PM.png?raw=true" width="50%" hspace="20" align="right">
+<img src=>
+My name is Kristin Vrona and I am a current current Ph.D. candidate at Northern Illinois University, specializing in health economics, labor economics, and applied econometrics.
 
-I'm Kristin, a Master of Economics and current Ph.D. candidate at Northern Illinois University, specializing in Econometrics, Health Economics, and Labor Economics. 
-
-My doctoral research explores the causal impact of mental health on labor market productivity and examines how workplace factors, benefits, and attitudes toward healthcare shape this relationship.
+I hold a master's degree in economics and have experience applying these skills in business and public sector positions.
 
 I am currently on the job market and available for interviews. 
 
 
 
-
 ### Background
-Born and raised in Illinois, I’m a proud NIU loyalist, having earned all my degrees from the university, first obtaining a B.S. in Economics with highest honors. My first post-B.S. job was a Business Analyst role at an international logistics company, where I took initiative and implemented innovations that exceeded expectations within my first year.
+Born and raised in Illinois, I’m a proud Northern Illinois University (NIU) loyalist, earning my B.S. in Economics summa cum laude, followed by my M.A. and ongoing Ph.D. in Economics, with a focus on health economics and econometrics.
 
-In my free time, I enjoy writing and recording music with my husband and spending time outdoors. 
+My career began as a Business Analyst at M.O.L. America Inc., where I enhanced forecasting models for quantity movements and costs, achieving an 8% improvement within three months by implementing econometric methods. My model gained recognition and became the company standard within my first year. 
+As a Graduate Fellow at NIU’s Institute for the Study of the Environment, Sustainability, and Energy, I partnered with the Illinois Department of Natural Resources (IDNR) to refine funding allocations for community projects. Our work centered on making the scoring process more equitable, ensuring that resources reached communities most in need, including those facing critical safety issues, like inadequate transportation or playgrounds in disrepair. Through this collaboration, I advocated for funding to address urgent infrastructure gaps rather than supporting only new, high-profile projects.
 
-I consider myself a welfare economist above all and am eager to apply my expertise to organizations committed to improving social welfare and driving innovation.
-
-#### Skills
-Data Analysis & Econometrics: Expertise in re-sampling techniques, matching methods, simulation methods, survival & hazard analysis, bias reduction methods, limited dependent variable models, panel & time-series methods.
-
-Technical Proficiency: Expert in R, SAS, and proficient in Microsoft Office with VBA (Excel automation).
-
-Communication & Management: Skilled in report generation, budget tracking, time management, and coordinating deliverables.
-
-Applied Economics: Experienced in logistics, public funds management, and leveraging applied theory to inform empirical practice.
-
-
+In my free time, I enjoy writing and recording music with my husband and spending time outdoors. As a welfare economist, I am eager to bring my expertise to organizations dedicated to enhancing social well-being and creating equitable opportunities.
