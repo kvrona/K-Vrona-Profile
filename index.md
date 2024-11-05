@@ -3,10 +3,11 @@ title: " "
 header:
   image: /assets/images/niubanner.png
 ---
-
+header:
+  image: /assets/images/headshot1.jpg
 # Welcome​
 
-<img src=>
+
 My name is Kristin Vrona and I am a current current Ph.D. candidate at Northern Illinois University, specializing in health economics, labor economics, and applied econometrics.
 
 I hold a master's degree in economics and have experience applying these skills in business and public sector positions.
