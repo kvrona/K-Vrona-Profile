@@ -1,14 +1,6 @@
----
-title: "Kristin Vrona"
-header:
-  
----
 
 
 
-
-
-  
 # Welcome​
 
 <img src="https://github.com/kvrona/K-Vrona-Profile/blob/main/assets/images/Headshot 1.jpeg?raw=true" width="50%" hspace="20" align="right">
