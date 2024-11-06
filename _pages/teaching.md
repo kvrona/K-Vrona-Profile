@@ -12,7 +12,7 @@ permalink: /teaching/
 #### ECON 660: Microeconomic Analysis I | Fall 2018, Spring 2020
 
 - Conducted weekly recitation sessions to reinforce course concepts for graduate students.
-- Adapted to the COVID-19 shift to virtual learning by recording video tutorials where I solved problems in real-time. Eventually invested in a tablet to demonstrate problem-solving more effectively, moving away from the whiteboard to enhance the online learning experience.
+% - Adapted to the COVID-19 shift to virtual learning by recording video tutorials where I solved problems in real-time. Eventually invested in a tablet to demonstrate problem-solving more effectively, moving away from the whiteboard to enhance the online learning experience. %
 
 #### ECON 750: Public Sector Economics I | Spring 2019
 
@@ -35,11 +35,11 @@ permalink: /teaching/
 ## Presentations & Talks
 
 #### ECON 700: Labor Economics I | Fall 2022
-- Guest lecturer,  "Labor Productivity & Health"
+- Presented "Labor Productivity & Health"
 #### ECON 798: Department of Economics Research Colloquium Seminar | Spring 2021
 - Presented PH.D. research paper, "Moderate to Severe Diagnosed Mental Disorders & Absenteeism" 
 #### ECON 750: Public Sector Economics I | Spring 2019
-- Discussion of modeling activity to derive efficient outcomes in a healthcare setting.  
+- Discussion of modeling activity applied to healthcare setting.  
 #### ECON 798: Department of Economics Research Colloquium Seminar| Spring 2018
  - Presented Master's thesis, "Mental Health & Labor Supply" 
 
