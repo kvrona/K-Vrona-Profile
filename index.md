@@ -3,7 +3,7 @@
 
 # Welcome​
 
-<img src="https://github.com/kvrona/K-Vrona-Profile/blob/main/assets/images/Headshot 1.jpeg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/kvrona/K-Vrona-Profile/blob/main/assets/images/HS_1_NOV.jpg?raw=true" width="50%" hspace="20" align="right">
 
 My name is Kristin Vrona and I am a current current Ph.D. candidate at Northern Illinois University, specializing in health economics, labor economics, and applied econometrics.
 
