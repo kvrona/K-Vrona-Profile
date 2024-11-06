@@ -12,7 +12,8 @@ permalink: /teaching/
 #### ECON 660: Microeconomic Analysis I | Fall 2018, Spring 2020
 
 - Conducted weekly recitation sessions to reinforce course concepts for graduate students.
-% - Adapted to the COVID-19 shift to virtual learning by recording video tutorials where I solved problems in real-time. Eventually invested in a tablet to demonstrate problem-solving more effectively, moving away from the whiteboard to enhance the online learning experience. %
+
+#Adapted to the COVID-19 shift to virtual learning by recording video tutorials where I solved problems in real-time. Eventually invested in a tablet to demonstrate problem-solving more effectively, moving away from the whiteboard to enhance the online learning experience. 
 
 #### ECON 750: Public Sector Economics I | Spring 2019
 
