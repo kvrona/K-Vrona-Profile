@@ -7,7 +7,7 @@ url: "https://kvrona.github.io"
 baseurl: "/K-Vrona-Profile"
 repository: "kvrona/K-Vrona-Profile"
 header:
-  image: /assets/images/Headshot 1.jpeg
+  image: /assets/images/HS_1_NOV.jpg
 
 include:
   - _pages
