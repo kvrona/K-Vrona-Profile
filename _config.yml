@@ -2,12 +2,12 @@
 
 title: "Kristin Vrona"
 name: "Profile for Kristin Vrona"
-email: 
+email: kristin.vrona@gmail.com
 url: "https://kvrona.github.io"
 baseurl: "/K-Vrona-Profile"
 repository: "kvrona/K-Vrona-Profile"
 header:
-  image: /assets/images/HS_1_NOV.jpg
+  image: /assets/images/Headshot 2.jpg
 
 include:
   - _pages
@@ -38,8 +38,8 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author: 
   name   : "Kristin Vrona"
-  avatar : "/assets/images/headshot1.jpg"
-  bio    : "My name is Kristin Vrona. I am a Ph.D. candidate and master's degree holder in the Department of Economics at Northern Illinois University, with specializations in health & labor economics and applied econometrics"
+  avatar : "/assets/images/Headshot 2.jpg"
+  bio    : "Ph.D. candidate and master's degree holder in the Department of Economics at Northern Illinois University. Specializations in health & labor economics and applied econometrics"
   location: "Sycamore, Illinois"
   github : 
   linkedin: "kristin-vrona" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
