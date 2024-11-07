@@ -1,7 +1,7 @@
 # the masthead
 main:
   - title: "Home"
-    url: 
+    url: /
   - title: "Curriculum Vitae"
     url: /assets/docs/Vrona,K_CV_NOV2024.pdf
   - title: "Research"
