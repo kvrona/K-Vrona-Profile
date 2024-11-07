@@ -7,4 +7,4 @@ permalink: /contact/
 ---
 
 ### Email  
-![image of email]({{site.baseurl}}/assets/images/EMAIL.jpg)
+![image of email]({{site.baseurl}}/assets/images/email2024.png)
