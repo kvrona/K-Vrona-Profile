@@ -20,6 +20,8 @@ Description: This study examines how mental and physical health conditions predi
 
 
 K. Vrona, "Mental Health and Absenteeism: the Role of Fringe Benefits as Moderators”. Keywords: health economics, labor supply, benefits, health insurance, mental health 
+[Download File]({{ site.baseurl }}/assets/docs/Vrona,K_PHD Research Paper.pdf)
+
 
 Description: This paper analyzes the impact of mental illness on absenteeism among employed adults, using MEPS data from 2010 to 2014. The study estimates the effects of diagnosed mental illness on absenteeism, accounting for symptom severity and individual, family, regional, and macroeco- nomic factors. It also examines how job factors, including fringe benefits, influence absenteeism. Findings suggest that while fringe benefits may increase absenteeism initially, they help miti- gate the long-term impact of mental illness on absence, supporting the value of wellness-oriented benefits in enhancing productivity.
 
