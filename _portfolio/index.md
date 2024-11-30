@@ -25,8 +25,11 @@ K. Vrona, "Mental Health and Absenteeism: the Role of Fringe Benefits as Moderat
 
 Description: This paper analyzes the impact of mental illness on absenteeism among employed adults, using MEPS data from 2010 to 2014. The study estimates the effects of diagnosed mental illness on absenteeism, accounting for symptom severity and individual, family, regional, and macroeco- nomic factors. It also examines how job factors, including fringe benefits, influence absenteeism. Findings suggest that while fringe benefits may increase absenteeism initially, they help miti- gate the long-term impact of mental illness on absence, supporting the value of wellness-oriented benefits in enhancing productivity.
 
-
-
 K. Vrona, “Mental Health and Employment Duration”
 
 Description: Using duration analysis and a latent health demand model, this study examines the impact of mental health on labor market outcomes, specifically employment duration and the length of layoffs leading to long-term unemployment.
+
+
+Past Manuscripts: 
+MA Research Paper
+[Download File]({{ site.baseurl }}/assets/docs/Vrona_Manuscript2020.pdf)
