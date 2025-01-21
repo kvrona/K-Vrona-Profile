@@ -7,7 +7,7 @@ url: "https://kvrona.github.io"
 baseurl: "/K-Vrona-Profile"
 repository: "kvrona/K-Vrona-Profile"
 header:
-  image: /assets/images/Headshot 2.jpg
+  image: /assets/images/vkheadshotnov.png
 
 include:
   - _pages
@@ -38,8 +38,8 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author: 
   name   : "Kristin Vrona"
-  avatar : "/assets/images/Headshot 2.jpg"
-  bio    : "My name is Kristin Vrona. I am a Ph.D. candidate and master's degree holder in the Department of Economics at Northern Illinois University with specializations in health, labor & applied econometrics. I am currently on the job market."
+  avatar : "/assets/images/vkheadshotnov.png"
+  bio    : "My name is Kristin Vrona, I am a doctoral candidate in Economics scheduled to graduate in May 2025 from Northern Illinois University (NIU). My doctoral specialization is in Labor and Econometrics. My current research focus is based in health and labor policy."
   location: "Sycamore, Illinois"
   github : 
   linkedin: "kristin-vrona" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
