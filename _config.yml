@@ -26,6 +26,7 @@ exclude:
   - vendor/ruby/
 
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
