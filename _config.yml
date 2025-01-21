@@ -7,7 +7,7 @@ url: "https://kvrona.github.io"
 baseurl: "/K-Vrona-Profile"
 repository: "kvrona/K-Vrona-Profile"
 header:
-  image: /assets/images/vkheadshotnov.png
+  image: /assets/images/vkheadshotnov(1).jpg
 
 include:
   - _pages
@@ -38,7 +38,7 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author: 
   name   : "Kristin Vrona"
-  avatar : "/assets/images/vkheadshotnov.png"
+  avatar : "/assets/images/vkheadshotnov(1).jpg"
   bio    : "My name is Kristin Vrona, I am a doctoral candidate in Economics scheduled to graduate in May 2025 from Northern Illinois University (NIU). My doctoral specialization is in Labor and Econometrics. My current research focus is based in health and labor policy."
   location: "Sycamore, Illinois"
   github : 
