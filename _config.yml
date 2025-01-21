@@ -7,7 +7,7 @@ url: "https://kvrona.github.io"
 baseurl: "/K-Vrona-Profile"
 repository: "kvrona/K-Vrona-Profile"
 header:
-  image: /assets/images/Headshot 2.jpg
+  image: /assets/images/headshot 4.jpg
 
 include:
   - _pages
@@ -38,7 +38,7 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author: 
   name   : "Kristin Vrona"
-  avatar : "/assets/images/Headshot 2.jpg"
+  avatar : "/assets/images/headshot 4.jpg"
   bio    : "I am a Ph.D. candidate in Economics with degree specializations in econometrics and labor, graduating Spring 2025. My current research focuses on behavioral responses of employees under various benefit package designs."
   location: "Sycamore, Illinois"
   github : 
