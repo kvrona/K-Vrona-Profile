@@ -7,7 +7,7 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/kvrona/K-Vrona-Profile/blob/master/assets/images/headshotbench.png" width="50%" hspace="20" align="right">
+<img src="https://github.com/kristin-vrona/K-Vrona-Profile/blob/master/assets/images/headshotbench.png" width="50%" hspace="20" align="right">
 
 My name is Kristin Vrona and I am a current current Ph.D. candidate at Northern Illinois University, specializing in health economics, labor economics, and applied econometrics.
 
@@ -24,4 +24,4 @@ My career began as a Business Analyst at M.O.L. America Inc., where I enhanced f
 
 As a Graduate Fellow at NIU’s Institute for the Study of the Environment, Sustainability, and Energy, I partnered with the Illinois Department of Natural Resources (IDNR) to refine funding allocations for community projects. Our work centered on making the scoring process more equitable, ensuring that resources reached communities most in need, including those facing critical safety issues, like inadequate transportation or playgrounds in disrepair. Through this collaboration, I advocated for funding to address urgent infrastructure gaps rather than supporting only new, high-profile projects.
 
-In my free time, I enjoy writing and recording music with my husband and spending time outdoors. 
+In my free time, I enjoy writing and recording music and hiking. 
