@@ -3,11 +3,11 @@
 title: "Kristin Marie Vrona"
 name:  "Kristin Vrona Portfolio"
 email: kristin.vrona@gmail.com
-url: "https://kvrona.github.io"
-baseurl: "/Kristin-Vrona"
-repository: "kvrona/Kristin-Vrona"
+url: "https://kristin-vrona.github.io"
+baseurl: "/K-Vrona-Profile"
+repository: "kristin-vrona/K-Vrona-Profile"
 header:
-  image: /assets/images/headshot1.jpg
+  image: /assets/images/Headshot 2.jpg
 
 include:
   - _pages
