@@ -1,7 +1,7 @@
 ---
 title: "Links"
 header:
-  image: /assets/images/niubanner2.png
+  image: /assets/images/genbanner.png
 classes: wide
 permalink: /links/
 ---
