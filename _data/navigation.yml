@@ -3,15 +3,16 @@ main:
   - title: "Home"
     url: /
   - title: "Curriculum Vitae"
-    url: /assets/docs/CV_Feb2025.pdf
-  - title: "Research"
-    url: /portfolio/
+    url: /assets/docs/CV_March2025.pdf
   - title: "Teaching"
     url: /teaching/
-  - title: "Links"
-    url: /links/
+    - title: "Research"
+    url: /portfolio/
   - title: "Contact"
     url: /contact/
+ # - title: "Links"
+  #  url: /links/
+
   # - title: "Blog"
   #   url: /blog/
 
