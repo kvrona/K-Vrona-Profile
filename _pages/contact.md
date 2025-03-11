@@ -1,7 +1,7 @@
 ---
 title: "Contact Information"
 header:
-  image: /assets/images/niubanner.png
+  image: /assets/images/genbanner.png
 classes: wide
 permalink: /contact/
 ---
