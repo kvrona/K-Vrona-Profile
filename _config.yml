@@ -7,7 +7,7 @@ url: "https://kristin-vrona.github.io"
 baseurl: "/K-Vrona-Profile"
 repository: "kristin-vrona/K-Vrona-Profile"
 header:
-  image: /assets/images/headshotbench.png
+  image: /assets/images/Headshot 2(1).png
 
 include:
   - _pages
