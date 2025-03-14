@@ -7,7 +7,7 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/kristin-vrona/K-Vrona-Profile/blob/main/assets/images/headshotbench.png" width="50%" hspace="20" align="right">
+<img src="https://github.com/kristin-vrona/K-Vrona-Profile/blob/master/assets/images/headshotbench.png" width="50%" hspace="20" align="right">
 
 My name is Kristin Vrona and I am a current current Ph.D. candidate at Northern Illinois University, specializing in health economics, labor economics, and applied econometrics.
 
