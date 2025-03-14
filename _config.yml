@@ -7,7 +7,7 @@ url: "https://kristin-vrona.github.io"
 baseurl: "/K-Vrona-Profile"
 repository: "kristin-vrona/K-Vrona-Profile"
 header:
-  image: /assets/images/Headshot 2(1).png
+  image: /assets/images/headshot1.jpg
 
 include:
   - _pages
@@ -39,7 +39,7 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author: 
   name   : "Kristin Vrona"
-  avatar : "/assets/images/Headshot 2(1).png"
+  avatar : "/assets/images/headshot1.jpg"
   bio    : "Doctoral candidate in economics defending in March 2025. Specilizations in Econometrics and Labor. Currently hold a master's degree."
   location: "Sycamore, Illinois"
   github : 
